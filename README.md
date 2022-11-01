@@ -1,4 +1,4 @@
-# [Business Card](https://danilocanuto.github.io/Business-Card)
+# [Business Card](https://danilocanuto.github.io/business-card)
 
 <file src="index.html"/>
 
